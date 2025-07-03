@@ -1,11 +1,11 @@
-package test.java.telran.point.tests;
+package telran.point.tests;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import main.java.telran.point.dao.PointsSpace;
-import main.java.telran.point.model.Point;
+import telran.point.dao.PointsSpace;
+import telran.point.model.Point;
 
 import java.util.Arrays;
 import java.util.Comparator;

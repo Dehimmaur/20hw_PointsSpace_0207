@@ -1,4 +1,4 @@
-package main.java.telran.point.model;
+package telran.point.model;
 
 public class Point {
     double x;
