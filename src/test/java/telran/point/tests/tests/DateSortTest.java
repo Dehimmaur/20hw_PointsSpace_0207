@@ -1,4 +1,4 @@
-package telran.point.tests;
+package test.java.telran.point.tests.tests;
 
 import org.junit.jupiter.api.Test;
 

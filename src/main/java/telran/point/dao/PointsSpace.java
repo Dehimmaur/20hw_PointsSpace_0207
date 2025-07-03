@@ -1,9 +1,9 @@
-package telran.point.dao;
+package main.java.telran.point.dao;
 
 import java.util.Arrays;
 import java.util.Comparator;
 
-import telran.point.model.Point;
+import main.java.telran.point.model.Point;
 
 public class PointsSpace {
     Point relPoint;
