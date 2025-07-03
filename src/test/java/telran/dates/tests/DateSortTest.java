@@ -1,4 +1,4 @@
-package test.java.telran.point.tests.tests;
+package test.java.telran.dates.tests;
 
 import org.junit.jupiter.api.Test;
 
